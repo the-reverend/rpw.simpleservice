@@ -1,0 +1,16 @@
+C minor\stweak
+D 2010-08-17T19:01:38
+F SimpleService.html 3da8aba4869a1bccadc434d0e6ffe94f781f9456
+F SimpleService.sln 08124a024306ee2c07add85448050e471ab52232
+F src/ISimpleServiceWorker.cs 2c9e4a4b14f0a9395ba8dc2da7e5bcbf1e4e2c3a
+F src/Program.cs 74e227e40499bb6b732f477966509a692c77197b
+F src/SampleWorker.cs 02eab046c88f3fe2bec67de190c406692945a923
+F src/SimpleService.cs c36c426678ef3d03a962fe7594125cca0c375795
+F src/SimpleService.csproj 56f814945f6e01771e857a43e62292876f46e482
+F src/SimpleServiceInstaller.cs 70241d3ea25af637a4fea938d5a6e354345cba42
+F src/app.config 8304779dea1278afebff6cd411c713868445d246
+F src/app.manifest 6ee0db82f5482c912681c14168ec1e22d3a4832e
+P cd7ebd324119974c12b2a30a38007b37016432f8
+R ac4530087cc57046df55745220ac8013
+U rwilso20
+Z 6078258e2891473dd1eb735814698440
